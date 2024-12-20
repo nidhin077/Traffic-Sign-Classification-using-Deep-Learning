@@ -1,0 +1,12 @@
+Traffic Sign Classification using Deep Learning.
+
+Algorithm / Model Used : MobileNet Architecture.
+
+Training Accuracy: 97.00%. and 
+Validation Accuracy: 98.00%.
+
+***************************************************************
+
+Algorithm / Model Used : YOLOv5 (Web Cam Prediction).
+
+***************************************************************
